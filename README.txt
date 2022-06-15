@@ -1,5 +1,5 @@
 === Stream Payment Gateway ===
-Contributors: FyFy
+Contributors: Stream Protocol LLC / StreamPay
 Donate link: https://streamprotocol.org/
 Tags: Phantom, StreamPay, STR, SolFlare, Solana, USDC
 Requires at least: 5.0
