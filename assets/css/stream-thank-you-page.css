@@ -1,0 +1,74 @@
+span.all-copy {
+    -webkit-user-select: all;
+    -moz-user-select: all;
+    -ms-user-select: all;
+    user-select: all;
+}
+
+span.no-copy {
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+}
+
+.qr-code-container {
+    background-color: #ffffff;
+    padding:8px;
+}
+.clipboard:before {
+    cursor: pointer;
+    position: relative;
+}
+
+.tooltip{
+    font-size: 10px;
+    background-color:#333;
+    color:#fff;
+    padding:5px;
+    border-radius:5px;
+}
+
+
+.browser_wallets {
+    /*display: flex;*/
+}
+
+.pay_broswer_button {
+    width: 186px;
+    height: 52px;
+    cursor: pointer;
+    margin-bottom: 10px;
+    display: -webkit-flex;
+    display: -moz-box;
+    display: flex;
+    -webkit-align-items: center;
+    -moz-box-align: center;
+    align-items: center;
+}
+
+.wc-wallet-button-icon {
+    margin-right: 8px;
+    width: 24px;
+    height: 24px;
+    align-items: center;
+    display: flex;
+    justify-content: center;
+}
+
+.wc-wallet-button-icon img {
+    justify-content: center;
+    -webkit-justify-content: center;
+    -moz-box-pack: center;
+    width: 24px;
+    height: 24px;
+    display: -webkit-flex;
+    display: -moz-box;
+    display: flex;
+    -webkit-align-items: center;
+    -moz-box-align: center;
+    align-items: center;
+    vertical-align: middle;
+    border-style: none;
+}
+

@@ -1,0 +1,205 @@
+.main_body {
+    padding: 20px;
+}
+
+.content__pair {
+    margin: auto;
+}
+
+.content__pair--wide {
+    padding-left: 20px;
+    width: 470px;
+    margin: auto;
+}
+
+.content__pair--narr {
+    width: 270px;
+    text-align: center;
+    margin: auto;
+}
+
+.content__pair--half {
+    padding-top: 10px;
+    padding-left: 20px;
+}
+
+.content__pair--header {
+    width: 100%;
+    text-align: center;
+    padding-top: 40px;
+}
+
+.content__pair--subheader {
+    width: 100%;
+    text-align: center;
+}
+
+.content__pair--subcontent {
+    padding-bottom: 15px;
+}
+
+.content__pair--subcontent .processing_image {
+    padding: 15px;
+    border: 2px solid #2d3139;
+    border-radius: 5px;
+    cursor: pointer;
+    display: none;
+}
+
+.processing_image.loading {
+    display: block;
+}
+
+.content__pair--subcontent img {
+    width: 120px;
+}
+
+.content__pair--content {
+    margin: auto;
+    display: flex;
+    align-items: flex-start;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
+
+.content__pair--content>div {
+    margin: auto;
+}
+
+.pay_broswer_button {
+    width: 130px;
+    height: 46px;
+    cursor: pointer;
+    margin: auto;
+    display: -webkit-flex;
+    display: -moz-box;
+    display: flex;
+    -webkit-align-items: center;
+    -moz-box-align: center;
+    align-items: center;
+}
+
+a.app_broswer_link {
+    margin: auto;
+}
+
+.wc-wallet-button-icon {
+    margin-right: 8px;
+    width: 24px;
+    height: 24px;
+    align-items: center;
+    display: flex;
+    justify-content: center;
+}
+
+.wc-wallet-button-icon img {
+    width: 24px;
+    height: 24px;
+    vertical-align: middle;
+    border-style: none;
+}
+
+.stream_qr {
+    width: 170px;
+    margin: auto;
+    text-align: center;
+    border: 2px solid #2d3139;
+    border-radius: 5px;
+}
+
+span.all-copy {
+    line-break: anywhere;
+}
+
+.clipboard:before {
+    cursor: pointer;
+    position: relative;
+    margin-left: 10px;
+}
+
+div.stream_modal {
+    display: none;
+    /* Hidden by default */
+    position: fixed;
+    /* Stay in place */
+    z-index: 1;
+    /* Sit on top */
+    padding-top: 200px;
+    /* Location of the box */
+    left: 0;
+    top: 0;
+    width: 100%;
+    /* Full width */
+    height: 100%;
+    /* Full height */
+    overflow: auto;
+    /* Enable scroll if needed */
+    background-color: rgb(0, 0, 0);
+    /* Fallback color */
+    background-color: rgba(0, 0, 0, 0.4);
+    /* Black w/ opacity */
+}
+
+
+/* Modal Content */
+
+.modal-content {
+    background-color: #fefefe;
+    margin: auto;
+    padding: 50px;
+    border: 1px solid #888;
+    border-radius: 8px;
+    width: 65%;
+    text-align: center;
+}
+
+p.modal-text {
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+p.modal-header {
+    font-size: 50px;
+    font-weight: bold;
+}
+
+.modal-footer a {
+    font-weight: bold;
+}
+
+@media screen and (max-width: 454px) {
+    .content__pair {
+        width: 100%;
+    }
+    .content__pair--wide {
+        width: 330px;
+    }
+    .content__pair--half {
+        width: 100%;
+        padding-top: 10px;
+    }
+    .content__pair--half button {
+        margin-bottom: 10px;
+    }
+}
+
+@media screen and (min-width:455px) and (max-width:990px) {
+    .content__pair {
+        width: 100%;
+    }
+    .content__pair--wide {
+        width: 400px;
+    }
+    .content__pair--content {
+        width: 320px;
+    }
+}
+
+@media (min-width: 991px) {
+    .content__pair {
+        display: flex;
+        align-items: flex-start;
+        flex-wrap: wrap;
+        width: 750px;
+    }
+}
