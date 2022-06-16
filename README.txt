@@ -10,7 +10,7 @@ Expand your sales to another level without having the obstacles of banks by usin
 
 == Description ==
 
-Add the USDC, STR, SOL, or SPL token in WooCommerce, making use of Phantom, StreamPay, SolFlare, and decentralized e-commerce.
+Add the USDC, STR, SOL, or SPL token in WooCommerce, making use of Phantom, StreamPay, SolFlare, and decentralized commerce.
 
 = Features =
 
