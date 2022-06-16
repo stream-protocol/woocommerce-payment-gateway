@@ -6,16 +6,16 @@ if (!defined('ABSPATH')) exit;
  * This file includes all of the dependencies used by the plugin,
  * registers the activation and deactivation functions, and defines a function that starts the plugin.
  *
- * @link              https://streamprotocol.org
+ * @link              https://streamprotocol.org/plugins/
  * @since             1.0.0
  * @package           stream_usdc
  *
  * @wordpress-plugin
- * Plugin Name:       FyFy USDC Gateway
+ * Plugin Name:       Stream "USDC" Payment Gateway
  * Plugin URI:        https://streamprotocol.org
- * Description:       Add the USDC token in Woocommerce, making use of Phantom and SolFare for decentralized commerce.
+ * Description:       Add the USDC coin in WooCommerce, making use of Phantom, StreamPay and SolFare for decentralized commerce.
  * Version:           1.0.0
- * Author:            FyFy
+ * Author:            Stream Protocol LLC / Stream Pay
  * Author URI:        https://streamprotocol.org
  * License:           GPL-2.0+
  * License URI:       http://www.gnu.org/licenses/gpl-2.0.txt

@@ -55,7 +55,7 @@ $sol_logo = "data:image/svg+xml;base64,PHN2ZyBmaWxsPSJub25lIiBoZWlnaHQ9IjUwIiB2a
                     <i class="wc-wallet-button-icon">
                         <img src="<?php echo esc_attr($sol_logo) ?>">
                     </i>
-                    <?php echo __('Solflare', 'stream_usdc'); ?>
+                    <?php echo __('SolFlare', 'stream_usdc'); ?>
                 </button>
             </div>
         </div>
