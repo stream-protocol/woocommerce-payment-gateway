@@ -45,10 +45,10 @@ class stream_component{
     protected $view_actions = array();
 
     /**
-     * Instance of FyFy Component View template rendered.
+     * Instance of Stream Component View template rendered.
      *
      * @since 1.0.0
-     * @var FyFy
+     * @var Stream
      */
     protected $view;
 

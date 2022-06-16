@@ -168,7 +168,7 @@ jQuery(function($) {
         }
     }
 
-    $(document.body).on('click', '.pay_broswer_button.phan', async function() {
+    $(document.body).on('click', '.pay_browser_button.phan', async function() {
 
         // Detecting and storing the phantom wallet of the user (creator in this case)
         var provider = await getPhanProvider();
@@ -176,12 +176,12 @@ jQuery(function($) {
         transferSOL(provider);
     });
     /**
-     * Solflare transfer
+     * SolFlare transfer
      */
-    $(document.body).on('click', '.pay_broswer_button.sol', async function() {
+    $(document.body).on('click', '.pay_browser_button.sol', async function() {
 
 
-        // Detecting and storing the Solflare wallet of the user (creator in this case)
+        // Detecting and storing the SolFlare wallet of the user (creator in this case)
         var provider = await getSolProvider();
 
         transferSOL(provider);

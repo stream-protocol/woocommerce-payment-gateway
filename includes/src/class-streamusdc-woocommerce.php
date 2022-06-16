@@ -277,13 +277,13 @@ class WC_stream_usdc_gateway_Gateway extends WC_Payment_Gateway {
         <li>
             <p style="word-wrap: break-word;">Pay with Browser Wallet</p>
             <div class="woocommerce-order-overview browser_wallets">
-                <button class="pay_broswer_button phan">
+                <button class="pay_browser_button phan">
                     <i class="wc-wallet-button-icon">
                         <img src="<?php echo esc_attr($this->phan_logo)?>" >
                     </i>
                     <?php echo __('Phantom', 'stream_usdc');?>
                 </button>
-                <button class="pay_broswer_button sol">
+                <button class="pay_browser_button sol">
                     <i class="wc-wallet-button-icon">
                         <img src="<?php echo esc_attr($this->sol_logo)?>">
 
