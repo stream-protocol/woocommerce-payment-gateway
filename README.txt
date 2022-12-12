@@ -2,7 +2,7 @@
 Contributors: Stream Protocol / StreamPay
 Support/Donate, SOL: A7gEhi6kDzieGKjn3a3G5QZgbM3WyAfM9psKBhAbs3Yt
 Plugin download link: https://streamprotocol.org/downloads/plugins (coming soon)
-Tags: Phantom, StreamPay, STR, SolFlare, Solana, USDC
+Tags: Phantom, StreamPay, STR, SolFlare, Solana, USDC, EURC
 Requires at least: 5.0
 Tested up to: 5.8.1
 Stable tag: 1.0.0
