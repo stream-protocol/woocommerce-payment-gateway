@@ -1,6 +1,7 @@
 === Stream Payment Gateway ===
 Contributors: Stream Protocol / StreamPay
-Donate link: https://streamprotocol.org/downloads/plugins (coming soon)
+Support/Donate, SOL: A7gEhi6kDzieGKjn3a3G5QZgbM3WyAfM9psKBhAbs3Yt
+Plugin download link: https://streamprotocol.org/downloads/plugins (coming soon)
 Tags: Phantom, StreamPay, STR, SolFlare, Solana, USDC
 Requires at least: 5.0
 Tested up to: 5.8.1
