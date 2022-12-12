@@ -10,12 +10,11 @@ Expand your sales to another level without having the obstacles of banks by usin
 
 == Description ==
 
-Add the USDC, STR, SOL, or SPL token in WooCommerce, making use of Phantom, StreamPay, SolFlare, and decentralized commerce.
+Add the USDC, STR, SOL, or SPL token in WooCommerce, making use of Phantom, StreamPay, SolFlare, and decentralized eCommerce.
 
 = Features =
 
-USDC "stablecoin payments
-StreamPay mobile app support 
+USDC "stablecoin payments"
 
 = How does it work? =
 
@@ -55,12 +54,17 @@ contact@streamprotocol.org
 == Changelog ==
 
 
-== ToDo/Development ==
+== ToDo´s & Developments ==
 
-Adding Cross-Chain, SPL tokens and cryptocurrencies
-Adding/collect transaction fees "store owner", and wallet feature
-Adding charities and donations "partnership wallet" feature
-Stream Token and API support
-Affiliate, Bonus & Reward systems
-Adding better invoice & Proof of Ownership (NFT) etc.
-Change fonts: Avenir, Teko, Poppins
+-Create/add EURC support
+-Fix errors
+-Create/add support for different network and cryptocurrencies. Add logos and icons
+-Create/add support transaction fees "store owner" wallet feature
+-Create/add Interface for inventory management
+-Create/add, and support for paying with a QR code. Scalability, compatibility and synchronization with the Stream Pay mobile application
+-Better product and inventory management support
+-Create/add charities and donations "partnership wallet" features
+-Create/add support Stream Token (STR), SPL token
+-Create/add affiliate, bonus & reward program and support
+-Adding better invoice & Proof of Ownership (NFT) etc..
+-Change fonts: Avenir, Teko, Poppins
